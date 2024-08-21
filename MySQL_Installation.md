@@ -4,6 +4,9 @@
 
   ![image-20240821210938203](C:\Users\16107\AppData\Roaming\Typora\typora-user-images\image-20240821210938203.png)
 
+  ![Uploading 联想截图_20240821152914.png…]()
+
+
 - Select the Community Edition for download.
 
   ![image-20240821211216081](C:\Users\16107\AppData\Roaming\Typora\typora-user-images\image-20240821211216081.png)
