@@ -2,10 +2,8 @@
 
 - Go to the [MySQL official download page](https://dev.mysql.com/downloads/installer/).
 
-  ![image-20240821210938203](C:\Users\16107\AppData\Roaming\Typora\typora-user-images\image-20240821210938203.png)
+  ![image](images\image-20240821210938203.png)
 
-  ![Uploading 联想截图_20240821152914.png…]()
-![Uploading image.png…]()
 
 
 - Select the Community Edition for download.
