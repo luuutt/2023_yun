@@ -62,7 +62,7 @@ e.g. how to use/install unity and how to use VR device.
 
 ## MySQL Download Tutorial
 
-- Step 1: Go to the [[MySQL official download page](https://dev.mysql.com/downloads/installer/)](https://dev.mysql.com/downloads/installer/).
+- Step 1: Go to the [[MySQL official download page](https://dev.mysql.com/downloads/)].
 
   <img src="https://github.com/user-attachments/assets/c4609a88-378a-4cc5-a245-b1bc918d629e" alt="image-20240821210938203" width="50%" />
 
